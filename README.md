@@ -13,5 +13,8 @@ _Escolher o que vai pedir é uma tarefa difícil na maioria dos restaurantes. No
 _Assim, precisa chamar o garçom e pedir informações, o que muitas vezes não dava certo porque nem o garçom sabia explicá-los. Uma solução simples pode ajudar a resolver este problema: cardápios interativos. Em uma tela touchscreen, como um tablet, descrições do prato, fotos ilustrativas, vídeos, informações nutricionais (se for o caso), entre outros. Muitas redes de fast food possuem digital boards onde expõem as opções que o cliente tem, com imagens e preços._
 
 _Essa alternativa, além de deixar o cliente mais confortável e informado para fazer o pedido, otimiza o serviço dos garçons. Eles podem atender com mais rapidez e eficácia, já que não precisarão ter todas as informações na ponta da língua. Sobra mais tempo para um bom atendimento._
+<br> <br/>
+<a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/ProjetoMequi.java"> Projeto TouchScreen McDonald <a/> <br>
+<a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/MetodoMequi.java"> Metodos do touchScreenMcDnoald (){...} <a/>
 <br>
-<br>
+
