@@ -17,7 +17,7 @@ _Essa alternativa, além de deixar o cliente mais confortável e informado para 
 <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/ProjetoMequi.java"> Projeto TouchScreen McDonald <a/> <br>
 <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/MetodoMequi.java"> Metodos do touchScreenMcDnoald (){...} <a/>
 <br><br/>
-  
+  ****
   # Projeto Jogo Da Sorte ☘
 > Status: concluido ✅ <br>
 > Aperfeiçoamento: 0
