@@ -16,5 +16,16 @@ _Essa alternativa, além de deixar o cliente mais confortável e informado para 
 <br> <br/>
 <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/ProjetoMequi.java"> Projeto TouchScreen McDonald <a/> <br>
 <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/MetodoMequi.java"> Metodos do touchScreenMcDnoald (){...} <a/>
-<br>
-
+<br><br/>
+  
+  # Projeto Jogo Da Sorte ☘
+> Status: concluido ✅ <br>
+> Aperfeiçoamento: 0
+  
+  
+  ## Jogo Da Sorte
+  **Regras:**_Você terá que adivinhar o número que a máquina sorteou, durante as suas únicas `3` tentativas, a máquina dará dicas dependendo do seu palpite._
+  
+  <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/AdivinharNumero.java"> Jogo da sorte (código) <a/>
+  
+>> <span size="4" style="color:red" > Obs:Aperfeiçoamento é contabilizado para cada modificação realizada na sua melhoria. <span/>
