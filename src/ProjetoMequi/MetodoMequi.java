@@ -1,4 +1,4 @@
-package Jogo;
+package ProjetoMequi;
 
 public class MetodoMequi {
 

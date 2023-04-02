@@ -1,4 +1,4 @@
-package Jogo;
+package ProjetoMequi;
 
 import java.util.Scanner;
 

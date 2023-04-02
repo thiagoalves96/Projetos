@@ -43,9 +43,8 @@ public class AdivinharNumero {
 
 			System.out.println("");
 			
-//			System.out.println("A resposta: " + sorteado);
-//			System.out.println("Palpite anterior: " + palpite);
-
+//		System.out.println("A resposta: " + sorteado);
+			
 			System.out.print("Digite o seu palpite: ");
 			palpite = scan.nextInt();
 
