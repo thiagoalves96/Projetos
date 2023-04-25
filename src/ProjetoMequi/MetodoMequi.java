@@ -25,9 +25,7 @@ public class MetodoMequi {
 	}
 
 	public void mcCrispyDescricao() {
-		System.out.println("McCrispy Chicken Legend\n"
-				+"\n"
-	            + "926 kcal\n"
+		System.out.println("McCrispy Chicken Legend\n" + "\n" + "926 kcal\n"
 				+ "Composto por pão tipo brioche com batata, molho do CBO, cebola crispy, bacon em fatias, \n"
 				+ "alface americana, queijo sabor cheddar\n"
 				+ " e carne 100% de peito de frango, temperada e empanada.1");
@@ -160,7 +158,7 @@ public class MetodoMequi {
 				+ "Um hamburguer (100% carne bovina), queijo sabor cheddar, cebola, picles, ketchup, mostarda e pão sem gergelim.");
 	}
 
-	//Menu caso 4
+	// Menu caso 4
 	public void caso4() {
 		System.out.println("-- VOCÊ SELECIONOU A OPÇÃO 4 ---");
 		System.out.println("");
@@ -169,15 +167,201 @@ public class MetodoMequi {
 		System.out.println("1 - Família Tasty ");
 		System.out.println("");
 		System.out.println("--SELECIONE UMA OPÇÃO---\n");
-		
+
 	}
+
 	// Submenu caso 4
 	public void famíliaTasty() {
-		System.out.println("Big Tasty\n"
-				+ "944 kcal\n"
-				+ "\n"
+		System.out.println("Big Tasty\n" + "944 kcal\n" + "\n"
 				+ "Um hambúrguer (100% carne bovina), queijo sabor emental, tomate, alface americana, cebola, molho Tasty e pão com gergelim.");
 
-		
 	}
+
+	public void caso5() {
+		System.out.println("-- VOCÊ SELECIONOU A OPÇÃO 5 ---");
+		System.out.println("");
+		System.out.println("******* Sanduíches de Frango *******");
+		System.out.println("");
+		System.out.println("1 - McCrispy Chicken Legend ");
+		System.out.println("2 - McCrispy Chicken Deluxe");
+		System.out.println("3 - McCrispy Chicken Melt & Bacon");
+		System.out.println("4 - McChicken Bacon");
+		System.out.println("5 - McChicken ");
+		System.out.println("6 - McChicken Jr.");
+		System.out.println("");
+		System.out.println("--SELECIONE UMA OPÇÃO---\n");
+
+	}
+
+	// Submenu caso 4
+	public void mcCrispyChickeLegend() {
+		System.out.println("McCrispy Chicken Legend\n" + "926 kcal\n" + "\n"
+				+ "Composto por pão tipo brioche com batata, molho do CBO, cebola crispy, "
+				+ "bacon em fatias, alface americana, "
+				+ "queijo sabor cheddar e carne 100% de peito de frango, temperada e empanada.");
+
+	}
+
+	public void mcCrispyChickeDeluxe() {
+		System.out.println("McCrispy Chicken Deluxe\n" + "625 kcal\n" + "\n"
+				+ "Sanduiche composto por tipo brioche com batata, carne 100% de peito de "
+				+ "frango, temperada e empanada, maionese, alface americana e tomate.");
+
+	}
+
+	public void mcChickenBacon() {
+		System.out.println("McChicken Bacon\n" + "448 kcal\n" + "\n"
+				+ "Frango empanado, maionese, bacon, alface americana e pão com gergelim.\n" + "");
+
+	}
+
+	public void mcChicken() {
+		System.out.println("McChicken\n" + "396 kcal\n" + "\n"
+				+ "Frango empanado, maionese, alface americana e pão com gergelim.\n" + "");
+
+	}
+
+	public void mcChickenJr() {
+		System.out.println("Chicken Jr.\n" + "342 kcal\n" + "\n"
+				+ "Frango empanado, maionese, alface americana e pão com gergelim.");
+
+	}
+
+	// menu 7
+	public void caso7() {
+		System.out.println("-- VOCÊ SELECIONOU A OPÇÃO 7 ---");
+		System.out.println("");
+		System.out.println("******* Méqui 1000 *******");
+		System.out.println("");
+		System.out.println("1 - SuperMc");
+		System.out.println("2 - McRings Cheddar Bacon");
+		System.out.println("3 - Caldo&Freddo Chocolate");
+		System.out.println("4 - Caldo&Freddo Morango");
+		System.out.println("5 - Caldo&Freddo Caramelo");
+		System.out.println("6 - McRings Bacon");
+		System.out.println("");
+		System.out.println("--SELECIONE UMA OPÇÃO---\n");
+	}
+
+	// sub menu 7
+	public void sub7n1() {
+		System.out.println("SuperMc\n" + "475 kcal\n" + "\n" + "Um hamburguer (100% bovino), alface americana, cebola,"
+				+ " ketchup, molho tasty, maionese, picles, queijo sabor cheddar, " + "tomate e pão com gergelim");
+
+	}
+
+	public void sub7n2() {
+		System.out.println("McRings Cheddar Bacon\n" + "1089 kcal\n" + "\n"
+				+ "A crocante e deliciosa cebola empanada do Méqui, agora com melt sabor cheddar e bacon crispy. Não dá para resistir, experimente! Produto exclusivo da loja Méqui 1000 (Avenida Paulista, 1811 –São Paulo - SP).");
+
+	}
+
+	public void sub7n3() {
+		System.out.println("Caldo&Freddo Chocolate\n" + "495 kcal\n" + "\n"
+				+ "Sobremesa composta por mix de baunilha, cobertura sabor chocolate e torta de maçã.");
+
+	}
+
+	public void sub7n4() {
+		System.out.println("Caldo&Freddo Chocolate\n" + "495 kcal\n" + "\n"
+				+ "Sobremesa composta por mix de baunilha, cobertura sabor Morango e torta de maçã.");
+
+	}
+
+	public void sub7n5() {
+		System.out.println("Caldo&Freddo Chocolate\n" + "495 kcal\n" + "\n"
+				+ "Sobremesa composta por mix de baunilha, cobertura sabor Caramelo e torta de maçã.");
+
+	}
+
+	public void sub7n6() {
+		System.out.println("McRings Bacon\n" + "959 kcal\n" + "\n"
+				+ "Esse delicioso sanduiche é composto por um hambúrguer (100% carne bovina), "
+				+ "queijo sabor emental, bacon, cebola frita empanada, maionese, "
+				+ "ketchup e pão tipo brioche. Produto exclusivo da loja Méqui 1000 (Avenida Paulista, 1811 –São Paulo -SP.)");
+
+	}
+
+	// menu 8
+	public void caso8() {
+		System.out.println("-- VOCÊ SELECIONOU A OPÇÃO 8 ---");
+		System.out.println("");
+		System.out.println("******* Acompanhamentos *******");
+		System.out.println("");
+		System.out.println("1 - McFritas grande");
+		System.out.println("2 - McFritas media");
+		System.out.println("3 - McFritas Pequena");
+		System.out.println("4 - McFritas kids");
+		System.out.println("5 - Mega McNuggets");
+		System.out.println("6 - Molho Barbecue");
+		System.out.println("7 - Molho Ranch");
+		System.out.println("8 - Molho agridoce");
+		System.out.println("9 - Ketshup");
+		System.out.println("10 - Mostarda");
+		System.out.println("");
+		System.out.println("--SELECIONE UMA OPÇÃO---\n");
+	}
+
+	// sub menu 8
+	public void sub8n1() {
+		System.out.println("McFritas Grande\n" + "364 kcal\n" + "\n"
+				+ "A batata frita mais famosa do mundo. Deliciosas batatas selecionadas, fritas,"
+				+ " crocantes por fora, macias por dentro, douradas, irresistíveis, saborosas, famosas, e todos os outros adjetivos positivos que você quiser dar.");
+
+	}
+
+	public void sub8n2() {
+		System.out.println("McFritas media\n" + "254 kcal\n" + "\n"
+				+ "A batata frita mais famosa do mundo. Deliciosas batatas selecionadas, fritas,"
+				+ " crocantes por fora, macias por dentro, douradas, irresistíveis, saborosas, famosas, e todos os outros adjetivos positivos que você quiser dar.");
+
+	}
+
+	public void sub8n3() {
+		System.out.println("McFritas pequena\n" + "182 kcal" + "\n"
+				+ "A batata frita mais famosa do mundo. Deliciosas batatas selecionadas, fritas,"
+				+ " crocantes por fora, macias por dentro, douradas, irresistíveis, saborosas, famosas, e todos os outros adjetivos positivos que você quiser dar.");
+
+	}
+
+	public void sub8n4() {
+		System.out.println("McFritas Kids\n" + "80 kcal\n" + "\n"
+				+ "Nossas clássicas McFritas douradas e crocantes com toque ideal de sal em uma porção perfeita pras crianças.");
+
+	}
+
+	public void sub8n5() {
+		System.out.println("Mega McNuggets\n" + "774 kcal\n" + "\n"
+				+ "Crocantes, leves e deliciosos. Os frangos empanados mais irresistíveis do McDonald’s agora na versão Mega, ideal para compartilhar. Composto por 15 unidades de Chicken McNuggets.");
+
+	}
+
+	public void sub8n6() {
+		System.out.println("Molho Barbecue\n" + "40 kcal\n" + "\n"
+				+ "Blister 23g. O difícil é escolher qual o melhor molho para se deliciar com os McNuggets! Para hoje que tal o molho barbecue?");
+
+	}
+
+	public void sub8n7() {
+		System.out.println("Molho Ranch\n" + "109 kcal\n" + "\n"
+				+ "Blister 23g. O difícil é escolher qual o melhor molho para se deliciar com os McNuggets! Para hoje que tal o molho ranch?");
+
+	}
+
+	public void sub8n8() {
+		System.out.println("Molho Agridoce\n" + "44 kcal\n" + "\n"
+				+ "Blister 23g. O difícil é escolher qual o melhor molho para se deliciar com os McNuggets! Para hoje que tal o molho agridoce?");
+
+	}
+
+	public void sub8n9() {
+		System.out.println("Ketchup\n" + "9 kcal\n" + "\n" + "Sachê de ketchup do Méqui");
+
+	}
+
+	public void sub8n10() {
+		System.out.println("Mostarda\n" + "4 kcal\n" + "\n" + "Sachê de mostarda do Méqui");
+
+	}
+
 }
