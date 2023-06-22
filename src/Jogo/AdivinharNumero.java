@@ -10,7 +10,6 @@ public class AdivinharNumero {
 
 		try {
 			Scanner scan = new Scanner(System.in);
-
 			Random random = new Random();
 
 			int palpite = 0,
