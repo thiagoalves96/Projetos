@@ -32,9 +32,10 @@ public class AdivinharNumero {
 
 			System.out.println("");
 
-			System.out.println("");
+			System.out.println("Adivinhe o numero sorteado!!!");
 
-			System.out.println("Regras: você terá 3 tentativas, e para cada umas daremos dicas então se prepare!");
+			System.out
+					.println("Regras: você terá 3 tentativas, e para cada tentativas daremos dicas então se prepare!");
 
 			System.out.println("");
 
@@ -125,14 +126,14 @@ public class AdivinharNumero {
 					System.out.print("Digite o seu palpite novamente: ");
 
 					palpite = scan.nextInt();
-				} else if (sorteado > 80 && sorteado < 90 && palpite > 80 ) {
+				} else if (sorteado > 80 && sorteado < 90 && palpite > 80) {
 // Do 90 ao 70
-					
+
 					System.out.println("\nDica: O numero é maior do que 70 e menor do que 90. Mas você tem apenas "
 							+ tentativas + " Chance(s).\n");
-					
+
 					System.out.print("Digite o seu palpite novamente: ");
-					
+
 					palpite = scan.nextInt();
 				} else if (sorteado > 70 && sorteado < 90 && palpite > 65) {
 // Do 90 ao 70
