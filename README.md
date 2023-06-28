@@ -14,8 +14,8 @@ _Assim, precisa chamar o garçom e pedir informações, o que muitas vezes não 
 
 _Essa alternativa, além de deixar o cliente mais confortável e informado para fazer o pedido, otimiza o serviço dos garçons. Eles podem atender com mais rapidez e eficácia, já que não precisarão ter todas as informações na ponta da língua. Sobra mais tempo para um bom atendimento._
 <br> <br/>
-<a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/ProjetoMequi.java"> Projeto TouchScreen McDonald <a/> <br>
-<a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/MetodoMequi.java"> Metodos do touchScreenMcDonald (){...} <a/>
+<a href="https://github.com/thiagoalves96/Projetos/blob/main/src/ProjetoMequi/ProjetoMequi.java"> Projeto TouchScreen McDonald <a/> <br>
+<a href="https://github.com/thiagoalves96/Projetos/blob/main/src/ProjetoMequi/MetodoMequi.java"> Metodos do touchScreenMcDonald (){...} <a/>
 <br><br/>
   ****
   # Projeto Jogo Da Sorte ☘
