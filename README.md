@@ -23,8 +23,37 @@ _Essa alternativa, além de deixar o cliente mais confortável e informado para 
 > Aperfeiçoamento: 0
   
   
-  ## Jogo Da Sorte
-  **Regras:**_Você terá que adivinhar o número que a máquina sorteou, durante as suas únicas `3` tentativas, a máquina dará dicas dependendo do seu palpite._
+### Jogo da Sorte ☘
+
+**Descrição:**
+
+O Jogo da Sorte é um projeto desenvolvido em Java, concebido como uma aplicação de entretenimento interativo. O jogo desafia os participantes a adivinharem um número específico escolhido aleatoriamente pela máquina, dentro de um intervalo definido. Durante o jogo, os jogadores recebem dicas estratégicas para orientar suas suposições e alcançar o objetivo de identificar o número correto.
+
+**Instruções:**
+
+1. Execute o programa e siga as instruções exibidas no console.
+2. Insira um número para fazer um palpite.
+3. Com base no palpite do jogador, a máquina fornecerá dicas úteis.
+4. O jogador tem um limite de três tentativas para acertar o número sorteado.
+5. Divirta-se tentando adivinhar o número escolhido pela máquina!
+
+**Tecnologias Utilizadas:**
+
+- Java (Versão 8)
+- Eclipse IDE
+
+**Estrutura do Projeto:**
+
+- `AdivinharNumero.java`: Arquivo principal do projeto contendo a implementação do jogo.
+- `README.md`: Documentação detalhada explicando o propósito e funcionamento do projeto.
+
+**Contribuições:**
+
+Contribuições são bem-vindas! Os interessados podem sugerir melhorias ou enviar pull requests para aprimorar o projeto.
+
+**Licença:**
+
+Este projeto é licenciado sob a Licença MIT, garantindo a liberdade de uso, modificação e distribuição, conforme os termos da licença.
   
   <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/Jogo/AdivinharNumero.java"> Jogo da sorte (código) <a/>
   
