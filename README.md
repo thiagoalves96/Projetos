@@ -1,22 +1,46 @@
 > # Projetos em Java
+# TouchMequi (Projeto McDonald TouchScreen)
 
-# Projeto MC Donald (TouchMequi)
-> Status: desenvolvendo ⚠️
+![Status](https://img.shields.io/badge/Status-Desenvolvendo-yellow.svg)
 
-_Neste projeto estarei usando Métodos `OO` (Orientação Objeto) para cada opção._
-_Objetivo é para aperfeiçoar o meu desenvolvimento e ter boas práticas da linguagem Java, estarei me baseando no TouchScreen que os estabelecimentos do `McDonald` utilizam, focado diretamente no `BACK-END` do dispositivo._
-<br>
-<br>
-## Porque adotaram TouchScreen?
-_Escolher o que vai pedir é uma tarefa difícil na maioria dos restaurantes. Nos cardápios, há inúmeros ingredientes e nomes de pratos que talvez você você não conhece. E qualquer profissional do setor de alimentação sabe que as pessoas não pedem o que não desejam._
+## Descrição
 
-_Assim, precisa chamar o garçom e pedir informações, o que muitas vezes não dava certo porque nem o garçom sabia explicá-los. Uma solução simples pode ajudar a resolver este problema: cardápios interativos. Em uma tela touchscreen, como um tablet, descrições do prato, fotos ilustrativas, vídeos, informações nutricionais (se for o caso), entre outros. Muitas redes de fast food possuem digital boards onde expõem as opções que o cliente tem, com imagens e preços._
+O **TouchMequi** é um projeto em desenvolvimento focado no aprimoramento das habilidades de programação em Java, utilizando conceitos de Métodos de Orientação a Objetos (OO). O objetivo é criar um sistema semelhante ao menu touch utilizado nos estabelecimentos do McDonald's, com foco exclusivo no desenvolvimento do backend do dispositivo.
 
-_Essa alternativa, além de deixar o cliente mais confortável e informado para fazer o pedido, otimiza o serviço dos garçons. Eles podem atender com mais rapidez e eficácia, já que não precisarão ter todas as informações na ponta da língua. Sobra mais tempo para um bom atendimento._
-<br> <br/>
+### Por que adotamos o TouchScreen?
+
+Escolher o que pedir em um restaurante pode ser uma tarefa desafiadora, especialmente quando há muitos itens no cardápio ou quando os nomes dos pratos são desconhecidos. Muitas vezes, os clientes precisam chamar um garçom para obter informações adicionais sobre os pratos, o que pode ser ineficiente, pois nem sempre o garçom está familiarizado com todos os detalhes.
+
+Os cardápios interativos, como os touchscreens, apresentam uma solução simples para esse problema. Eles permitem que os clientes visualizem descrições detalhadas dos pratos, fotos ilustrativas, vídeos e até mesmo informações nutricionais, tudo em uma tela sensível ao toque, como um tablet. Essa abordagem não apenas torna mais fácil para os clientes fazerem seus pedidos, mas também otimiza o trabalho dos garçons, permitindo-lhes atender os clientes com mais rapidez e eficiência.
+
+## Métodos do TouchScreen McDonald
 <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/ProjetoMequi/ProjetoMequi.java"> Projeto TouchScreen McDonald <a/> <br>
 <a href="https://github.com/thiagoalves96/Projetos/blob/main/src/ProjetoMequi/MetodoMequi.java"> Metodos do touchScreenMcDonald (){...} <a/>
 <br><br/>
+## Instruções de Uso
+
+- Execute o programa e siga as instruções apresentadas no console.
+- Utilize os métodos fornecidos para navegar pelo menu e fazer seus pedidos.
+- Divirta-se explorando as opções do menu do McDonald's no TouchMequi!
+
+## Tecnologias Utilizadas
+
+- Java (Versão 8+)
+- IDE Eclipse
+
+## Estrutura do Projeto
+
+- `TouchScreenMcDonald.java`: Arquivo principal do projeto contendo a definição dos métodos para interação com o menu touch.
+- `README.md`: Documentação do projeto explicando o seu propósito, funcionamento e instruções de uso.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias ou enviar pull requests.
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT, garantindo a liberdade de uso, modificação e distribuição, conforme os termos da licença.
+
   ****
   # Projeto Jogo Da Sorte ☘
 > Status: concluido ✅ <br>
